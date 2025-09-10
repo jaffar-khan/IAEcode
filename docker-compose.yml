@@ -1,0 +1,9 @@
+# docker-compose.yml
+version: '3.8'
+
+services:
+  multi-agent-system:
+    build: .
+    container_name: multi-agent-chat-system
+    volumes:
+      - ./outputs:/app/outputs
