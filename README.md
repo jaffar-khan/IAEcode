@@ -15,6 +15,8 @@ The system consists of four main components:
 
 ### Using Docker (Recommended)
 
-1. Build and run the container:
-   ```bash
-   docker-compose up --build
+# Build the Docker image
+docker build -t multi-agent-system .
+
+# Run the container
+docker run multi-agent-system
