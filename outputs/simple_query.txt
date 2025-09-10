@@ -1,0 +1,8 @@
+Query: What are the main types of neural networks?
+
+Response: Here's what I found:
+
+Neural Networks:
+  types: ['Feedforward Neural Networks', 'Convolutional Neural Networks (CNN)', 'Recurrent Neural Networks (RNN)', 'Long Short-Term Memory Networks (LSTM)', 'Gated Recurrent Units (GRU)', 'Radial Basis Function Networks (RBFN)', 'Multilayer Perceptrons (MLP)', 'Self-Organizing Maps (SOM)', 'Deep Belief Networks (DBN)', 'Restricted Boltzmann Machines (RBM)', 'Autoencoders']
+  description: Neural networks are computing systems inspired by the human brain that consist of interconnected nodes (neurons) that process and transmit information.
+

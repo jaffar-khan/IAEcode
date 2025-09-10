@@ -1,0 +1,3 @@
+Query: Compare two machine-learning approaches and recommend which is better for our use case.
+
+Response: I've analyzed the provided data. It appears to be relevant to the query. Further specific analysis could be performed with more precise instructions.
