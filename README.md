@@ -13,8 +13,6 @@ The system consists of four main components:
 
 ## How to Run
 
-### Using Docker (Recommended)
-
 # Build the Docker image
 docker build -t multi-agent-system .
 
